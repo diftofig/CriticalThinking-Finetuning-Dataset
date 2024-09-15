@@ -33,8 +33,7 @@ The dataset consists of various dialogue examples intended to stimulate critical
 
 ### Playing Scenario: 
 ```json
-[
-                "请和我开始批判性思维情景对话训练",
+            [   "请和我开始批判性思维情景对话训练",
                 "今天我们来进行一个批判性思维训练。想象一下，你身处一个城市规划委员会的会议中，讨论关于城市公共交通改革的提案。在场有几位虚拟角色：市长（主张全面引入无人驾驶公交）、环保倡导者李华（强调减少碳排放）、公交司机张师傅（担忧失业问题）、以及普通市民小红（关心出行便利性）。请选择一位角色扮演。"
             ],
             [
@@ -49,8 +48,7 @@ The dataset consists of various dialogue examples intended to stimulate critical
 
 ### Debate Example:
 ```json
- [
-                "请和我开始一轮辩论。",
+ [              "请和我开始一轮辩论。",
                 "今天我们来进行一场辩论。辩题是：“网络课程应该成为主流教育形式。”正方认为网络课程提供了灵活性和可访问性，是未来教育的趋势。反方则认为网络课程无法提供足够的互动和实践机会，不应成为主流教育形式。你想支持哪一方？"
             ],
             [
