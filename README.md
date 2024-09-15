@@ -84,8 +84,10 @@ Critical-Thinking-Training-Dataset/
 
 ## Contribution
 We welcome contributions from the community. If you would like to improve this dataset or have suggestions, feel free to submit a pull request or open an issue.
+
 我们欢迎社区的贡献。如果您想改进此数据集或有任何建议，请随时提交拉取请求或打开问题。
 
 ## License
 This dataset is released under the MIT License. You are free to use, modify, and distribute it for any purpose, as long as you provide attribution to the original authors.
+
 此数据集在 MIT 许可证下发布。您可以出于任何目的自由使用、修改和分发它，只要您提供原作者的署名即可。
